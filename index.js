@@ -1,6 +1,6 @@
 //For player 1
 
-let randomNumber1 = Math.floor((Math.random() * 6) + 1);
+let randomNumber1 = Math.floor((Math.random() * 6) + 1); //the +1 is because if it wasn't there, it would only reach number 5, so we need the +1 to reach 6
 
 //console.log(randomNumber1); to check if is working
 
